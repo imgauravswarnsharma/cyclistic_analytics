@@ -1,6 +1,7 @@
 ---
 Title: "Cyclistic Capstone Project"  
 Author: "Gaurav Kumar" 
+Project Domain: "Data Analytics"
 Last Updated: 22-Aug-2022
 ---
 # **CYCLISTIC PROJECT**
